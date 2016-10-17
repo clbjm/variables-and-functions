@@ -1,0 +1,7 @@
+a variable is what you are able to call a object with.
+a Subroutine is basicaly a variable that performes its tasks.
+a Procedure is associated with a message and a object.
+a function is what is used when you call a variable.
+a Routine is what the subprogram and Subroutine calls on to get their data.
+a subprogram is what you use when you call objects from mutiple locations.
+a callable unit is what everything uses to call that object or variable.
